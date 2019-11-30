@@ -23,6 +23,11 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/GitHub/el-paro-sigue" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -46,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574833491189</updated>
       <workItem from="1574833492417" duration="15000" />
-      <workItem from="1574833521607" duration="1143000" />
+      <workItem from="1574833521607" duration="1416000" />
     </task>
     <servers />
   </component>
